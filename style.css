@@ -1,0 +1,12 @@
+body {
+    background-image: url(images/paul-volkmer-qVotvbsuM_c-unsplash.jpg);
+    background-size: cover;
+}
+
+.intro {
+    color: blue;
+}
+
+main {
+    text-align: center;
+}
